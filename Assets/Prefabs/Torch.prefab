@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5294260331973080150}
   m_Layer: 0
-  m_Name: Joint
+  m_Name: Torch
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -48,7 +48,7 @@ GameObject:
   - component: {fileID: 37806414}
   - component: {fileID: 5294260332715180827}
   m_Layer: 0
-  m_Name: Joint Body
+  m_Name: Torch Body
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

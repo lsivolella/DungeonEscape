@@ -30,7 +30,7 @@ public class Portal : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        HideElements();
+        //HideElements();
         myCinemachine2DOneShotAudio.ForcePlay2DClip(portalSound, Camera.main.transform.position);
         StartCoroutine(myGameSession.LoadNextScene());
     }
